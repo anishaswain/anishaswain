@@ -24,7 +24,7 @@
 <a href="https://dev.to/anishaswain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anishaswain" height="30" width="40" /></a>
 <a href="https://twitter.com/anishaswain" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1620220691~hmac=b847c637ed853fb2c11e6b1654cd8b6c" alt="anishaswain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anishaswain" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1620220766~hmac=cb1e071af53c1f4c5fd72571b3b86690" alt="anishaswain" height="30" width="40" /></a>
-<a href="https://instagram.com/anisha_swain_" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1620220766~hmac=cb1e071af53c1f4c5fd72571b3b86690" alt="anisha_swain_" height="30" width="40" /></a>
+<a href="https://instagram.com/anisha_swain_" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1620221348~hmac=ba676364646c5f7420a0a851350944d1" alt="anisha_swain_" height="30" width="40" /></a>
 <a href="https://medium.com/@anishaswain" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111502.svg?token=exp=1620220972~hmac=50507fb2ab678a73016028a1f234e0a2" alt="@anishaswain" height="30" width="40" /></a>
 
 </p>
